@@ -1,4 +1,4 @@
-# 🧠 Uniswap v4 Hook-Based On-Chain Policy Orchestration
+# 🧠 Uniswap v4 Hook-Based On-Chain Policy Orchestration Architecture
 
 **A modular architecture for secure, composable, and policy-enforced Uniswap v4 pools**
 
