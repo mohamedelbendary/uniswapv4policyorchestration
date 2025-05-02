@@ -122,14 +122,12 @@ graph TD
 
 ## 📚 Full Whitepaper
 
-```> 📄 [Uniswap Protocol v4 Hook-Based On-Chain Policy Orchestration Architecture (PDF)](./Uniswap%20Protocol%20V4%20Hook-based%20On-Chain%20Policy%20Orchestration%20Architecture.pdf)
-Coming Soon.
-```
+> 📄 [Uniswap Protocol v4 Hook-Based On-Chain Policy Orchestration Architecture (PDF)](https://github.com/mohamedelbendary/uniswapv4policyorchestration/blob/main/Uniswap%20Protocol%20V4%20Hook-based%20On-Chain%20Policy%20Orchestration%20Architecture.pdf)
 
 Includes detailed:
 - Security analysis & attack vector mitigations
 - Governance design
-- Gas benchmarking
+- Gas baseline estimation
 - Scalability modeling
 - Licensing frameworks
 
@@ -137,7 +135,8 @@ Includes detailed:
 
 ## 📬 Contact
 
-**Author**: [Mohamed ElBendary](mohamed.elbendary@gmail.com)  
+**Author**: [Mohamed ElBendary](https://x.com/meprosterk)
+
 **Inquiries**: Please use Issues or open a Discussion to provide input.
 
 ---
